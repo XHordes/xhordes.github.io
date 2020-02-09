@@ -5,6 +5,7 @@ body {
 .content {
 	position: absolute;
 	top: 50%;
+	margin-right: 50%;
 }
 
 /* Google's Comfortaa Font */
