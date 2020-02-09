@@ -1,3 +1,9 @@
+/* Team XHordes Custom CSS */
+body {
+	text-align: center;
+}
+
+/* Google's Comfortaa Font */
 h1 {
 	font-family: Comfortaa;
 	font-size: 24px;
