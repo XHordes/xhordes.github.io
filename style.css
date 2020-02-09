@@ -2,6 +2,12 @@
 body {
 	text-align: center;
 }
+.content {
+	top: 50%;
+	left: 50%;
+	margin-left: -50%;
+	margin-right: -25%;
+}
 
 /* Google's Comfortaa Font */
 h1 {
