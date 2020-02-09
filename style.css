@@ -3,9 +3,8 @@ body {
 	text-align: center;
 }
 .content {
-	position: absolute;
+	position: center;
 	top: 50%;
-	margin-right: 50%;
 }
 
 /* Google's Comfortaa Font */
