@@ -3,7 +3,7 @@ body {
 	text-align: center;
 }
 .content {
-	top: 50%;
+	margin: 0 auto;
 }
 
 /* Google's Comfortaa Font */
