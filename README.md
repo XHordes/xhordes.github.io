@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<meta http-equiv="refresh" content="0; url="hordesmodapi.net/index.html">
+		<meta http-equiv="refresh" content="0; url="hordesmodapi.net">
 	</head>
 	<body>
 		<h1 style="text-align: center;">Redirecting...</h1>
